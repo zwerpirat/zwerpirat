@@ -3,7 +3,7 @@
 
 - ⚗️ I’m currently working on my personal project **Tavern Tales**
 
-- 📖 I’m currently learning **Pico8 as a fun sidequest** and diving **deeper into the world of back end programming**
+- 📖 I’m currently learning **Pico8 / Lua as a fun sidequest** and diving **deeper into the world of back end programming**
 
 - 🔮 I’m looking to collaborate on **open source projects**, let me know if you need a hand!
 
