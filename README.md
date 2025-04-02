@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vera</h1>
+<h1 align="center">Hi there 🤘🏼, I'm Vera</h1>
 <h3 align="center">A passionate fullstack developer from Berlin</h3>
 
 - ⚗️ I’m currently working on my personal project **Tavern Tales**
