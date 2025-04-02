@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Vera</h1>
 <h3 align="center">A passionate fullstack developer from Berlin</h3>
 
-- 🔭 I’m currently working on **Tavern Tales**
+- 🔭 I’m currently working on my personal project **Tavern Tales**
 
-- 🌱 I’m currently learning **Pico8 as a fun sidequest**
+- 🌱 I’m currently learning **Pico8 as a fun sidequest** and diving **deeper into the world of back end programming**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **open source projects**, let me know if you need a hand!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
