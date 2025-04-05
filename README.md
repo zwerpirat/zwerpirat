@@ -5,9 +5,11 @@
 <br/>
 I’m currently working on my personal project **Tavern Tales**. I'm in the process of converting the backend from TS to PHP in order to host the webpage online!
 <br/>
+<br/>
 **📖 My study focus is:**
 <br/>
 Besides continuing my JS/ TS journey, I’m currently learning **Pico8 / Lua as a fun sidequest** and diving **deeper into the world of back end programming by focusing on PHP.**
+<br/>
 <br/>
 **🔮 What I'm excited about:**
 <br/>
